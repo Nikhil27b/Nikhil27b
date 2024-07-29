@@ -10,7 +10,7 @@ All my Social Handel<br>
 <br>
 About Me 🚀
 <br>
-🎓 I’m a Frontend Developer
+🎓 I’m a Full Stack Developer
 <br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
