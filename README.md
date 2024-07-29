@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Bobade</h1>
-<h3 align="center">CEO VGB Developers</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 <hr>
